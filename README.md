@@ -31,7 +31,7 @@
             <li>Being smart</li>
             <li>Doing stuff</li>
         </ol>
-        <p> Are you proud of me???</p>
+        <a href="https://github.com/NeWbIe-CoDeR475/Shannon/edit/master/README.md"> Are you proud of me???</a>
     </body>
 
 </html>
